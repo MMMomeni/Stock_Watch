@@ -1,0 +1,4 @@
+<resources>
+    <string name="file_name">stockList.json</string>
+    <string name="app_name">Stock_Watch</string>
+</resources>
